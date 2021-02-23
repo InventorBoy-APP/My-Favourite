@@ -1,0 +1,22 @@
+body{
+  text-align:center;wwwwwwwwwwwwwwwwwwwwwwww
+  background:linear-gradient(#5a9e6c 0%,#4b67a3 100%)
+}
+img{
+  width:500px;
+  border-radius:50%;
+    width:300px;
+  height:200px;
+}
+.menu{
+  list-style:none;
+    font-family:cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor:zoom-in;
+    color:black;
+}
+#myname{
+   font-family: 'Akaya Kanadaka', cursive; 
+}
